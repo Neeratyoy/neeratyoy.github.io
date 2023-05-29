@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D under Prof. Frank Hutter, AutoML Lab, Freiburg, Germany, 2022-Present
+* M.Sc. in Conputer Science, University of Freiburg, Germany, 2018-2021
+* B.E. in Computer Science, IIEST Shibpur, India, 2011-2015
+
 
 Work experience
 ======
