@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Coming soon.
+Here is my [Google Scholar profile](https://scholar.google.de/citations?user=SGtKoyMAAAAJ&hl=en).
+
+Sort by *year* to see what I have been up to, and feel free to [contact me](mailto:mallik@cs.uni-freiburg.de).
 
 <!-- 
 {% if author.googlescholar %}
