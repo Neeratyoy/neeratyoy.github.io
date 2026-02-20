@@ -22,6 +22,6 @@ If you are working on:
 * interpreting and leveraging network learning dynamics for hyperparameter transfer,
 * general HPO (or AutoML) for different data modalities, and downstream applications,
 
-do write to me for a chat and potential collaboration! :blush:
+do write to me for a chat and potential collaboration! :)
 
 Thank you for visiting — if you have any questions or would like to get in touch, please feel free to [contact me](mailto:mallik@cs.uni-freiburg.de), or find me on social media (left panel).
