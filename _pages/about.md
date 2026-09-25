@@ -11,6 +11,7 @@ redirect_from:
 Hi there! My name is Neeratyoy Mallik.
 
 I'm a PhD student at the [ML Lab](https://ml.informatik.uni-freiburg.de/) in Freiburg, supervised by [Prof. Dr. Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/).
+
 Inspired by Frank's vision of using Machine Learning to [_democratize_ Machine Learning](https://www.kommunikation.uni-freiburg.de/pm-en/personalia-en/deep-learning-2-0-automated-machine-learning-enables-more-precise-algorithms), my work aims to make large-scale Deep Learning cheaper and easier to tune, so strong performance and accessibility isn't gated by compute or expertise.
 <!-- more efficient to tune and thus more accessible — reducing the compute and expertise barrier so that strong DL performance isn't gated by resource budgets. -->
 
