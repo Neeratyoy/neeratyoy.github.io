@@ -15,7 +15,7 @@ I'm a PhD student at the [ML Lab](https://ml.informatik.uni-freiburg.de/) in Fre
 Inspired by Frank's vision of using Machine Learning to [_democratize_ Machine Learning](https://www.kommunikation.uni-freiburg.de/pm-en/personalia-en/deep-learning-2-0-automated-machine-learning-enables-more-precise-algorithms), my work aims to make large-scale Deep Learning cheaper and easier to tune, so strong performance and accessibility isn't gated by compute or expertise.
 <!-- more efficient to tune and thus more accessible — reducing the compute and expertise barrier so that strong DL performance isn't gated by resource budgets. -->
 
-Currently I am interning with [Dr. Shiwei Liu](https://institute-tue.ellis.eu/en/people/sliu) at the ELLIS Institute \& Max Planck Institute for Intelligent Systems in [Tübingen](https://cyber-valley.de/). I am also co-supervised by [Dr. Aaron Klein](https://aaronkl.github.io/) and collaborating with the [OpenEuroLLM](https://openeurollm.eu/) team on scaling law construction.
+Currently I am interning with [Dr. Shiwei Liu](https://institute-tue.ellis.eu/en/people/sliu) at the ELLIS Institute & Max Planck Institute for Intelligent Systems in [Tübingen](https://cyber-valley.de/). I am also co-supervised by [Dr. Aaron Klein](https://aaronkl.github.io/) and collaborating with the [OpenEuroLLM](https://openeurollm.eu/) team on scaling law construction.
 
 
 I have previously worked on Evolutionary Optimization, Bayesian Optimization, Multi-fidelity methods, Learning Curve Extrapolation.
